@@ -1,16 +1,6 @@
 # unit_testing_2
 
-A new Flutter project.
+1. Eksekusi Widget Testing ![alt](images/1.png)
+2. Eksekusi Widget Testing gagal kareana kondisi Diubah pada saat ditekan Icon.add bernilai 2 daripada 1 untuk matcher findsOneWidget ![alt](images/widget_test_error.png)
+3. Eksekusi Widget Testing fetch album ![alt](images/2.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
